@@ -11,5 +11,6 @@
 
     <h1> This is web site of core baking system</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero, recusandae necessitatibus voluptatem voluptatibus minus eos? Soluta, blanditiis atque similique iure unde ex laborum consequatur in voluptatem distinctio adipisci quia sunt?</p>
+    <button style="background-color: #E5A26A">Click Boutton</button>
 </body>
 </html>
